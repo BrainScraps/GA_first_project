@@ -1,0 +1,15 @@
+.container-narrow{
+	margin: auto;
+	max-width: 700px;
+	background-color: #FFF;
+	border-radius: 5px;
+	padding: 12px 12px;
+}
+
+img.profile {
+	margin: 0 22px;
+}
+
+body{
+	background-image: url('http://colourlovers.com.s3.amazonaws.com/images/patterns/1562/1562230.png'); 
+}
