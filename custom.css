@@ -10,6 +10,31 @@ img.profile {
 	margin: 0 22px;
 }
 
-body{
-	background-image: url('http://colourlovers.com.s3.amazonaws.com/images/patterns/1562/1562230.png'); 
+
+.social-icon {
+	height: 100px;
+	width: 100px;
+	margin: 0 5px;
+
 }
+
+.social-drawer {
+	text-align: center;
+}
+body{
+	background: none;
+}
+html {
+	background: url('img/back.jpg') no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+
+background: url('images/yourimage.jpg') no-repeat center center fixed; 
+        -webkit-background-size: cover;
+	        -moz-background-size: cover;
+		        -o-background-size: cover;
+			        background-size: cover;
+			}
