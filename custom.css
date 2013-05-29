@@ -1,9 +1,10 @@
 .container-narrow{
 	margin: auto;
 	max-width: 700px;
-	background-color: #FFF;
+	background-color: rgba(0,0,0,0.85);
 	border-radius: 5px;
 	padding: 12px 12px;
+	color: #F2F2F2;
 }
 
 img.profile {
@@ -23,6 +24,7 @@ img.profile {
 }
 body{
 	background: none;
+	margin-top: 5px;
 }
 html {
 	background: url('img/back.jpg') no-repeat center center fixed; 
@@ -32,9 +34,15 @@ html {
         background-size: cover;
 }
 
-background: url('images/yourimage.jpg') no-repeat center center fixed; 
-        -webkit-background-size: cover;
-	        -moz-background-size: cover;
-		        -o-background-size: cover;
-			        background-size: cover;
-			}
+.racing-font{
+	font-family: 'Rokkitt', cursive;
+}
+
+.center{
+	text-align: center;
+}
+
+h2,h3 {
+	font-family: 'Rokkitt', cursive;
+}
+
